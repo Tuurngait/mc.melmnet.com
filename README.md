@@ -1,4 +1,3 @@
-## mc.melmnet.com
 ItemsAdder:
   *  survival - resourcepack_survival
   *  creative - resourcepack_creative
