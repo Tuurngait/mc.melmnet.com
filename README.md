@@ -1,5 +1,5 @@
 ## mc.melmnet.com
- * ItemsAdder
+ItemsAdder:
   *  survival - resourcepack_survival
   *  creative - resourcepack_creative
   *  roleplay - resourcepack_rolepay
