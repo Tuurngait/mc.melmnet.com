@@ -1,5 +1,2 @@
 ItemsAdder:
-  *  survival - resourcepack_survival
-  *  creative - resourcepack_creative
-  *  roleplay - resourcepack_roleplay
-  *  administration - resourcepack_melmnet
+  *  survival; creative; roleplay; administration - resourcepack_melmnet
